@@ -17,9 +17,9 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
-import rickMorty from "./rickMorty.png";
-import storage from "./storage.png";
-import sexshop from "./sexshop.png";
+import rickMorty from "./RickMorty.png";
+import storage from "./storages.png";
+import sexshop from "./sexshopp.png";
 
 export {
   logo,
