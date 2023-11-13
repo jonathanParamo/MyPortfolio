@@ -17,9 +17,9 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
-import sexshop from "./Sexshop.png";
-import RickandMorty from "./RickMorty.png";
-import storage from "./Storage.png";
+import sexshop from "./sexshop.png";
+import RickandMorty from "./rickMorty.png";
+import storage from "./storage.png";
 
 export {
   logo,
