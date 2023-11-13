@@ -18,7 +18,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import sexshop from "./sexshop.png";
-import RickandMorty from "./rickMorty.png";
+import rickMorty from "./rickMorty.png";
 import storage from "./storage.png";
 
 export {
@@ -41,6 +41,6 @@ export {
   tailwind,
   threejs,
   sexshop,
-  RickandMorty,
+  rickMorty,
   storage,
 };
