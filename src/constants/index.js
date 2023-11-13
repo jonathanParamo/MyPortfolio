@@ -10,7 +10,7 @@ import {
   mongodb,
   git,
   sexshop,
-  RickandMorty,
+  rickMorty,
   storage,
   threejs,
 } from "../assets";
@@ -138,7 +138,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: RickandMorty,
+    image: rickMorty,
     source_code_link: "https://github.com/jonathanParamo/RickAndMorty",
   },
   {
