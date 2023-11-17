@@ -85,7 +85,7 @@ const experiences = [
     title: "React.js Developer",
     company_name: "",
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2022 - at the moment",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "To collaborate in a work team to create high-quality products.",
