@@ -119,6 +119,7 @@ const projects = [
     ],
     image: sexshop,
     source_code_link: "https://github.com/bufssexshop/bufs-next-app",
+    website_link: "https://bufssexshop-git-feature-search-filters-bufssexshop-gmailcom.vercel.app/",
   },
   {
     name: "Rick and Morty",
@@ -140,6 +141,7 @@ const projects = [
     ],
     image: rickMorty,
     source_code_link: "https://github.com/jonathanParamo/RickAndMorty",
+    website_link: "https://rick-and-morty-bice.vercel.app/",
   },
   {
     name: "Storage administration",
@@ -161,6 +163,7 @@ const projects = [
     ],
     image: storage,
     source_code_link: "https://github.com/jonathanParamo/storageAdministration",
+    website_link: "https://storage-administration.vercel.app/",
   },
 ];
 
