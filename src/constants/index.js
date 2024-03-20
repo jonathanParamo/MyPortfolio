@@ -12,7 +12,8 @@ import {
   sexshop,
   rickMorty,
   storage,
-  threejs,
+  booklog,
+  logothreejs
 } from "../assets";
 
 export const navLinks = [
@@ -72,7 +73,7 @@ const technologies = [
   },
   {
     name: "Three JS",
-    icon: threejs,
+    icon: logothreejs,
   },
   {
     name: "git",
@@ -119,6 +120,7 @@ const projects = [
     ],
     image: sexshop,
     source_code_link: "https://github.com/bufssexshop/bufs-next-app",
+    deployed_app_link: "https://bufssexshop-bufssexshop-gmailcom.vercel.app/",
   },
   {
     name: "Rick and Morty",
@@ -140,6 +142,7 @@ const projects = [
     ],
     image: rickMorty,
     source_code_link: "https://github.com/jonathanParamo/RickAndMorty",
+    deployed_app_link: "https://rick-and-morty-bice.vercel.app/",
   },
   {
     name: "Storage administration",
@@ -161,6 +164,28 @@ const projects = [
     ],
     image: storage,
     source_code_link: "https://github.com/jonathanParamo/storageAdministration",
+    deployed_app_link: "https://storage-administration.vercel.app/",
+  },
+  {
+    name: "Booklog",
+    description:
+      "This book web app enables user registration, login, and browsing of available books. Users can also reserve and manage their bookings, including returns, from their profile.",    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux toolkit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: booklog,
+    source_code_link: "https://github.com/jonathanParamo/bookLog",
+    deployed_app_link: "https://book-log-psi.vercel.app/",
   },
 ];
 
