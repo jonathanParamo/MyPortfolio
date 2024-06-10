@@ -19,8 +19,9 @@ import tailwind from "./tech/tailwind.png";
 import rickMorty from "./RickMorty.png";
 import storage from "./storages.png";
 import sexshop from "./sexshopp.png";
-import booklog from "./booklog.png"
-import logothreejs from "./tech/logothreejs.png"
+import booklog from "./booklog.png";
+import logothreejs from "./tech/logothreejs.png";
+import myPhoto from "./me/photo.png";
 
 export {
   logo,
@@ -45,4 +46,5 @@ export {
   storage,
   booklog,
   logothreejs,
+  myPhoto,
 };
